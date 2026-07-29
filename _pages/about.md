@@ -35,7 +35,9 @@ My research interests lie at the intersection of control, optimization, and lear
     </div>
     <p class="publication-authors"><strong>Zhong Chen</strong>, Xiaofang Chen, Jinping Liu, Lihui Cen, and Weihua Gui</p>
     <p class="publication-venue"><em>Applied Mathematics and Computation</em>, vol. 470, article 128577, 2024.</p>
-    <p class="publication-abstract"><strong>Abstract.</strong> This paper develops an iterative Koopman MPC method for nonlinear systems with time-varying parameters. An encoder–decoder network learns lifted coordinates from fixed-parameter data, while a recursive online update, accelerated by the matrix inversion lemma, adapts the Koopman model during closed-loop operation. Simulations on three nonlinear examples demonstrate accurate tracking and improved control performance.</p>
+    <ul class="publication-highlights">
+      <li>This paper develops an iterative Koopman MPC method for nonlinear systems with time-varying parameters. A neural network learns lifted coordinates from fixed-parameter data, while a recursive online update, accelerated by the matrix inversion lemma, adapts the Koopman model during closed-loop operation. Simulations on three nonlinear examples demonstrate accurate tracking and improved control performance.</li>
+    </ul>
   </article>
 
   <article class="publication-item">
@@ -45,7 +47,9 @@ My research interests lie at the intersection of control, optimization, and lear
     </div>
     <p class="publication-authors"><strong>Zhong Chen</strong>, Lihui Cen, Xiaofang Chen, Yongfang Xie, and Weihua Gui</p>
     <p class="publication-venue"><em>International Journal of Robust and Nonlinear Control</em>, vol. 36, no. 2, pp. 602–628, 2026.</p>
-    <p class="publication-abstract"><strong>Abstract.</strong> This paper addresses approximation errors in Koopman-based MPC by representing the modeling error as polytopic uncertainty. It develops two min–max robust MPC schemes: a worst-case infinite-horizon feedback design and an improved design that estimates the current model and optimizes the first control move separately. Recursive feasibility, closed-loop stability, and numerical effectiveness are established.</p>
+    <ul class="publication-highlights">
+      <li>This paper studies approximation errors in Koopman-based MPC and represents the identified modeling errors as polytopic uncertainty. It develops two min–max robust MPC schemes: a worst-case infinite-horizon feedback design and an improved design that estimates the current model and optimizes the first control move separately. Recursive feasibility, closed-loop stability, and numerical effectiveness are established.</li>
+    </ul>
   </article>
 
   <article class="publication-item">
@@ -55,7 +59,9 @@ My research interests lie at the intersection of control, optimization, and lear
     </div>
     <p class="publication-authors"><strong>Zhong Chen</strong>, Xiaofang Chen, Lihui Cen, and Weihua Gui</p>
     <p class="publication-venue"><em>2024 IEEE 63rd Conference on Decision and Control (CDC)</em>, pp. 1461–1466, 2024.</p>
-    <p class="publication-abstract"><strong>Abstract.</strong> This paper models an unknown nonlinear system as a Koopman-based LPV system with data-driven polytopic uncertainty. A robust MPC controller is then formulated for worst-case conditions using linear matrix inequality constraints. The resulting design guarantees recursive feasibility and closed-loop stability, with numerical simulations validating the modeling and control approach.</p>
+    <ul class="publication-highlights">
+      <li>This paper models an unknown nonlinear system as a Koopman-based LPV system with data-driven polytopic uncertainty. A robust MPC controller is then formulated for worst-case conditions using linear matrix inequality constraints. The resulting design guarantees recursive feasibility and closed-loop stability, with numerical simulations validating the modeling and control approach.</li>
+    </ul>
   </article>
 </div>
 
