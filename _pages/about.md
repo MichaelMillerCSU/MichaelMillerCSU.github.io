@@ -11,7 +11,7 @@ redirect_from:
 <span id="about-me"></span>
 <!-- Personal homepage content begins here. -->
 
-I am currently pursuing a Ph.D. in the **School of Automation at Central South University** under the supervision of **[Xiaofang Chen](https://faculty.csu.edu.cn/chenxiaofang/zh_CN/index.htm)** and **[Lihui Cen](https://www.researchgate.net/profile/Lihui-Cen)**, where I also received my bachelor's degree in Automation. I am currently a visiting Ph.D. student with the **Optimization-Based Control Group at TU Ilmenau**, under the supervision of **[Karl Worthmann](https://www.tu-ilmenau.de/en/university/departments/department-of-mathematics-and-natural-sciences/profil/institutes-and-groups/institute-of-mathematics/profil/optimization-based-control-group/team/karl-worthmann)** and **[Jan Heiland](https://www.janheiland.de/)**.
+I am currently pursuing a Ph.D. in the **School of Automation at Central South University** under the supervision of **[Xiaofang Chen](https://faculty.csu.edu.cn/chenxiaofang/zh_CN/index.htm){:target="_blank" rel="noopener noreferrer" class="person-link"}** and **[Lihui Cen](https://www.researchgate.net/profile/Lihui-Cen){:target="_blank" rel="noopener noreferrer" class="person-link"}**, where I also received my bachelor's degree in Automation. I am currently a visiting Ph.D. student with the **Optimization-Based Control Group at TU Ilmenau**, under the supervision of **[Karl Worthmann](https://www.tu-ilmenau.de/en/university/departments/department-of-mathematics-and-natural-sciences/profil/institutes-and-groups/institute-of-mathematics/profil/optimization-based-control-group/team/karl-worthmann){:target="_blank" rel="noopener noreferrer" class="person-link"}** and **[Jan Heiland](https://www.janheiland.de/){:target="_blank" rel="noopener noreferrer" class="person-link"}**.
 
 My research interests lie at the intersection of control, optimization, and learning, with a particular focus on the Koopman operator framework and its applications in process control systems. If you share similar interests or would like to discuss research questions, please feel free to contact me 📬 at [zhong.chen.csu@gmail.com](mailto:zhong.chen.csu@gmail.com), [zhongchen@csu.edu.cn](mailto:zhongchen@csu.edu.cn), or [zhong.chen@tu-ilmenau.de](mailto:zhong.chen@tu-ilmenau.de).
 
@@ -71,6 +71,7 @@ My research interests lie at the intersection of control, optimization, and lear
 
 - *2022.09–2027.06*, **Ph.D. student**, School of Automation, **Central South University**, Changsha, China.
 - *2018.06–2022.06*, **B.Eng. in Automation**, School of Automation, **Central South University**, Changsha, China.
+{: .education-list}
 
 <span id="experience"></span>
 
