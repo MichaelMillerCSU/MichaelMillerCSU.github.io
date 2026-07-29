@@ -60,7 +60,8 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 0.95rem;
+    line-height: 1.55;
   }
 
   /* paragraph indents */
@@ -134,7 +135,7 @@
   h3 {
     margin: 0;
     color: var(--global-link-color);
-    font-size: 0.95rem;
+    font-size: 1rem;
     line-height: 1.4;
 
     a {
@@ -199,7 +200,7 @@
 
   h3 {
     margin: 0;
-    font-size: 0.95rem;
+    font-size: 1rem;
     line-height: 1.4;
   }
 
