@@ -70,6 +70,7 @@ My research interests lie at the intersection of control, optimization, and lear
 ## 📖 Education
 
 - *2022.09–2027.06*, **Ph.D. student**, School of Automation, **Central South University**, Changsha, China.
+- *2026.01–2027.01*, **Visiting Ph.D. student**, Optimization-Based Control Group, Institute of Mathematics, **Technische Universität Ilmenau**, Ilmenau, Germany.
 - *2018.06–2022.06*, **B.Eng. in Automation**, School of Automation, **Central South University**, Changsha, China.
 {: .education-list}
 
